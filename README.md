@@ -1,6 +1,6 @@
 - Hi there 👋 I’m Burak !
 - 👀 I’m interested in Web Development Technologies
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Express.js
 - 📫 How to reach me burakcankarasel@gmail.com
 
 <!---
