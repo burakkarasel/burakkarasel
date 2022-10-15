@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [URL-Shortener](https://github.com/burakkarasel/URL-Shortener)
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Golang**
 
