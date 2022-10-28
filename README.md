@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dev_bck" target="blank"><img src="https://img.shields.io/twitter/follow/dev_bck?logo=twitter&style=for-the-badge" alt="dev_bck" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🔭 I’m currently working on [Northwind](github.com/burakkarasel/northwind)
 
-- 🤝 I’m looking for help with [Northwind](github.com/burakkarasel/northwind)
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Golang**
 
