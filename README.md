@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Golang**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **burakcankarasel@gmail.com**
 
