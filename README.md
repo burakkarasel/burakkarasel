@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_bck" target="blank"><img src="https://img.shields.io/twitter/follow/dev_bck?logo=twitter&style=for-the-badge" alt="dev_bck" /></a> </p>
 
-- 🔭 I’m currently working on [Northwind](https://github.com/burakkarasel/northwind)
+- 🔭 I’m currently working on [Tech Library](https://github.com/burakkarasel/tech-library)
 
 - 🌱 I’m currently learning **Spring Boot**
 
