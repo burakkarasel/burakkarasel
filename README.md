@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Social Media App](https://github.com/burakkarasel/social-media-app)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Go**
 
