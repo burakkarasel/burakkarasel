@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak!</h1>
-<h3 align="center">A Curious Back-End Developer</h3>
+<h3 align="center">A Back-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakkarasel&label=Profile%20views&color=0e75b6&style=flat" alt="burakkarasel" /> </p>
 
