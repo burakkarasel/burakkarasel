@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dev_bck" target="blank"><img src="https://img.shields.io/twitter/follow/dev_bck?logo=twitter&style=for-the-badge" alt="dev_bck" /></a> </p>
 
-- 🔭 I’m currently working on [Social Media App](https://github.com/burakkarasel/social-media-app)
+- 🔭 I’m currently working on [Tasks App](https://github.com/burakkarasel/tasks-app)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **Go**
 
